@@ -1,22 +1,3 @@
-Goal 1
-
-execute a single trading algorithm defined by spec (json/yaml/etc) on a single equity, by a single application instance, using alpaca as a brokerage api connection.
-
-Goal 2
-
-Allow a single trading algorithm to be backtested by running the application in some specific configuration
-
-Goal 3
-
-Allow multiple trading algorithms to be hosted on a single application instance
-
-Goal 4
-
-Create dynamically allocated infrastructure using containers based on compute resources
-
-
-
-
 1. A user should be able to define a trading algorithm using json/yaml/toml.
 
 2. A user should be able to backtest their trading algorithm over some period of time.
